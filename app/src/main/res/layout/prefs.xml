@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_height="match_parent"
+	android:layout_width="wrap_content">
+	<bdcorps.imagepreference.ImagePreference1
+		android:title="ImagePreference" 
+		android:summary="ImagePreference with default icon 'add'."
+		android:key="test"
+		android:icon="@android:drawable/ic_menu_add"
+	/>
+	<bdcorps.imagepreference.ImagePreference2
+		android:title="ImagePreference" 
+		android:defaultValue = "false"
+		android:summary="ImagePreference with no default icon."
+		android:key="test2"
+	/>
+</PreferenceScreen>
