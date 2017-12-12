@@ -8,6 +8,6 @@ The PreferenceActivity screen in Android live wallpaper have several pre built v
 - ListPreference
 - EditTextPreference
 
-This project demontrates how Preference views can be extended and new custom Preference views can be built. We embed images in a custom preference view and display it in tht PreferenceActivity.
+This project demontrates how Preference views can be extended and new custom Preference views can be built. We embed images in a custom preference view and display it in the PreferenceActivity.
 
 <img src="screen1.jpg" alt="Screen 1" width=300px>
